@@ -2,9 +2,9 @@
 
 A curated list of resources or projects related to FiveM.
 
-## Resources
+If you found this list helpful, please leave a star rating.
 
-### Standalone
+## Resources
 
 - [ox_core](https://github.com/CommunityOx/ox_core) - Player and vehicle management and persistence for FiveM.
 
