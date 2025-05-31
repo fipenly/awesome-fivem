@@ -18,7 +18,7 @@ A curated list of resources or projects related to FiveM.
 
 - [ox_inventory](https://github.com/CommunityOx/ox_inventory) - A robust inventory solution for FiveM, implementing items, weapons, shops, and much more to support a wide range of gameplay scenarios.
 
-- [fivem-appearance](https://github.com/pedr0fontoura/fivem-appearance) - A flexible player customization script for FiveM.
+- [minimal-hud](https://github.com/ThatMadCap/minimal-hud) - A Minimal HUD Built using Preact/Tailwind CSS. Standalone with optional support for many frameworks and allows for easy setup for a custom framework.
 
 - [npwd](https://github.com/project-error/npwd) - NPWD is a FiveM phone resource written entirely in TypeScript and React.
 
@@ -34,19 +34,17 @@ A curated list of resources or projects related to FiveM.
 
 - [sf-attachobject](https://github.com/scriptforge-gg/sf-attachobject) - Easily and intuitively attach props to in-game characters in FiveM.
 
-- [fivem-greenscreener](https://github.com/Bentix-cs/fivem-greenscreener) - A FiveM script that takes screenshots of every gta clothing, prop/object and vehicle.
+- [fivem-appearance](https://github.com/pedr0fontoura/fivem-appearance) - A flexible player customization script for FiveM.
 
-- [minimal-hud](https://github.com/ThatMadCap/minimal-hud) - A Minimal HUD Built using Preact/Tailwind CSS. Standalone with optional support for many frameworks and allows for easy setup for a custom framework.
+- [fivem-greenscreener](https://github.com/Bentix-cs/fivem-greenscreener) - A FiveM script that takes screenshots of every gta clothing, prop/object and vehicle.
 
 - [fivem-base-vehicle-handling](https://github.com/jgscripts/fivem-base-vehicle-handling) - All base vehicle handlings in one file for re-streaming.
 
 ## Tools
 
-- [fivem-items-gallery](https://github.com/bitc0de/fivem-items-gallery) - This project serves as an image gallery for Fivem items, providing a comprehensive collection of images that can be easily downloaded and utilized in Fivem servers. Featuring a user-friendly interface, you can either search for specific items or browse through various categories to find exactly what you're looking for.
+- [Audiotool](https://github.com/Renewed-Scripts/Audiotool) - A audiotool for fivem which automates the create of Native Audio.
 
 - [YMTEditor](https://github.com/grzybeek/YMTEditor) - YMTEditor is a free tool which allows to easily edit GTA5 .ymt files (Peds clothes).
-
-- [Audiotool](https://github.com/Renewed-Scripts/Audiotool) - A audiotool for fivem which automates the create of Native Audio.
 
 - [mmYtypTool](https://github.com/mmleczek/mmYtypTool) - Tool for creating YTYP files from YDR.
 
@@ -61,3 +59,5 @@ A curated list of resources or projects related to FiveM.
 - [StreamFileAssistant](https://github.com/st860923/StreamFileAssistant) - This tool, using Python and packaged to exe, is designed to clean up those extra, now unnecessary files, helping you optimize your stream resources. Duplicate YFT Cleaner / Stream Duplicate Checker / Manual File List Checker.
 
 - [mmVehiclesMetaMerger](https://github.com/mmleczek/mmVehiclesMetaMerger) - Tool made to easily merge multiple GTA 5 vehicle meta files.
+  
+- [fivem-items-gallery](https://github.com/bitc0de/fivem-items-gallery) - This project serves as an image gallery for Fivem items, providing a comprehensive collection of images that can be easily downloaded and utilized in Fivem servers. Featuring a user-friendly interface, you can either search for specific items or browse through various categories to find exactly what you're looking for.
