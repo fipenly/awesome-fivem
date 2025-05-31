@@ -2,8 +2,6 @@
 
 A curated list of resources or projects related to FiveM.
 
-If you found this list helpful, please leave a star rating.
-
 ## Resources
 
 - [ox_core](https://github.com/CommunityOx/ox_core) - Player and vehicle management and persistence for FiveM.
@@ -28,6 +26,8 @@ If you found this list helpful, please leave a star rating.
 
 - [PolyZone](https://github.com/mkafrin/PolyZone) - PolyZone is a FiveM mod to define zones of different shapes and test whether a point is inside or outside of the zone.
 
+- [bob74_ipl](https://github.com/Bob74/bob74_ipl) - Fix holes and customize the map.
+
 - [object_gizmo](https://github.com/DemiAutomatic/object_gizmo) - This module exports a useGizmo function that enables manipulation of entity position and rotation.
 
 - [screencapture](https://github.com/itschip/screencapture) - Screen capture for FiveM. A successor for screenshot-basic.
@@ -43,6 +43,8 @@ If you found this list helpful, please leave a star rating.
 ## Tools
 
 - [fivem-items-gallery](https://github.com/bitc0de/fivem-items-gallery) - This project serves as an image gallery for Fivem items, providing a comprehensive collection of images that can be easily downloaded and utilized in Fivem servers. Featuring a user-friendly interface, you can either search for specific items or browse through various categories to find exactly what you're looking for.
+
+- [YMTEditor](https://github.com/grzybeek/YMTEditor) - YMTEditor is a free tool which allows to easily edit GTA5 .ymt files (Peds clothes).
 
 - [Audiotool](https://github.com/Renewed-Scripts/Audiotool) - A audiotool for fivem which automates the create of Native Audio.
 
